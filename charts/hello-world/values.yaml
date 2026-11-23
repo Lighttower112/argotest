@@ -11,5 +11,5 @@ image:
 service:
   type: NodePort
   internalPort: 80
-  externalPort: 8080
-  nodePort: 30100
+  externalPort: 8090
+  nodePort: 30101
